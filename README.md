@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Usman0606/Daily-coding-journey/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Usman0606/Daily-coding-journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Usman0606/Daily-coding-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Usman0606/Daily-coding-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,8 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Usman0606/Daily-coding-journey/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Usman0606/Daily-coding-journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Usman0606/Daily-coding-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Usman0606/Daily-coding-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Usman0606/Daily-coding-journey/tree/master/0009-palindrome-number) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Usman0606/Daily-coding-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
