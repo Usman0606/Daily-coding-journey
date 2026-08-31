@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Usman0606/Daily-coding-journey/tree/master/0009-palindrome-number) |
+| [0504-base-7](https://github.com/Usman0606/Daily-coding-journey/tree/master/0504-base-7) |
 ## Ternary Search
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Usman0606/Daily-coding-journey/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [0504-base-7](https://github.com/Usman0606/Daily-coding-journey/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->
