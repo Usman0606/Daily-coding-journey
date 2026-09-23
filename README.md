@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Usman0606/Daily-coding-journey/tree/master/0020-valid-parentheses) |
 | [0504-base-7](https://github.com/Usman0606/Daily-coding-journey/tree/master/0504-base-7) |
 ## Dynamic Programming
 |  |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Usman0606/Daily-coding-journey/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Usman0606/Daily-coding-journey/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Usman0606/Daily-coding-journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
