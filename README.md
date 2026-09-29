@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Usman0606/Daily-coding-journey/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Usman0606/Daily-coding-journey/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Usman0606/Daily-coding-journey/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Usman0606/Daily-coding-journey/tree/master/0125-valid-palindrome) |
 | [0504-base-7](https://github.com/Usman0606/Daily-coding-journey/tree/master/0504-base-7) |
 ## Dynamic Programming
 |  |
