@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Usman0606/Daily-coding-journey/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Usman0606/Daily-coding-journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Usman0606/Daily-coding-journey/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/Usman0606/Daily-coding-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Usman0606/Daily-coding-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Usman0606/Daily-coding-journey/tree/master/0162-find-peak-element) |
 | [0643-maximum-average-subarray-i](https://github.com/Usman0606/Daily-coding-journey/tree/master/0643-maximum-average-subarray-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Usman0606/Daily-coding-journey/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Usman0606/Daily-coding-journey/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Usman0606/Daily-coding-journey/tree/master/0075-sort-colors) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Usman0606/Daily-coding-journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
