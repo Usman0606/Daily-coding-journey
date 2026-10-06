@@ -64,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Usman0606/Daily-coding-journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Usman0606/Daily-coding-journey/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Usman0606/Daily-coding-journey/tree/master/0125-valid-palindrome) |
 | [0504-base-7](https://github.com/Usman0606/Daily-coding-journey/tree/master/0504-base-7) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Usman0606/Daily-coding-journey/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/Usman0606/Daily-coding-journey/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Usman0606/Daily-coding-journey/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Usman0606/Daily-coding-journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Usman0606/Daily-coding-journey/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Usman0606/Daily-coding-journey/tree/master/0078-subsets) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Usman0606/Daily-coding-journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Usman0606/Daily-coding-journey/tree/master/0022-generate-parentheses) |
 ## Sorting
 |  |
 | ------- |
