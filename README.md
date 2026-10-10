@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Usman0606/Daily-coding-journey/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Usman0606/Daily-coding-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Usman0606/Daily-coding-journey/tree/master/0162-find-peak-element) |
+| [0441-arranging-coins](https://github.com/Usman0606/Daily-coding-journey/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Usman0606/Daily-coding-journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Usman0606/Daily-coding-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Usman0606/Daily-coding-journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Usman0606/Daily-coding-journey/tree/master/0009-palindrome-number) |
+| [0441-arranging-coins](https://github.com/Usman0606/Daily-coding-journey/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Usman0606/Daily-coding-journey/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Usman0606/Daily-coding-journey/tree/master/0509-fibonacci-number) |
 ## Ternary Search
