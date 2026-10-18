@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Usman0606/Daily-coding-journey/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Usman0606/Daily-coding-journey/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Usman0606/Daily-coding-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Usman0606/Daily-coding-journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Usman0606/Daily-coding-journey/tree/master/0160-intersection-of-two-linked-lists) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Usman0606/Daily-coding-journey/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Usman0606/Daily-coding-journey/tree/master/0013-roman-to-integer) |
 | [0441-arranging-coins](https://github.com/Usman0606/Daily-coding-journey/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Usman0606/Daily-coding-journey/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Usman0606/Daily-coding-journey/tree/master/0509-fibonacci-number) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Usman0606/Daily-coding-journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Usman0606/Daily-coding-journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Usman0606/Daily-coding-journey/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Usman0606/Daily-coding-journey/tree/master/0125-valid-palindrome) |
