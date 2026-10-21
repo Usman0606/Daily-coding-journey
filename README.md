@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Usman0606/Daily-coding-journey/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Usman0606/Daily-coding-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Usman0606/Daily-coding-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Usman0606/Daily-coding-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Usman0606/Daily-coding-journey/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Usman0606/Daily-coding-journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Usman0606/Daily-coding-journey/tree/master/0349-intersection-of-two-arrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Usman0606/Daily-coding-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Usman0606/Daily-coding-journey/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Usman0606/Daily-coding-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Usman0606/Daily-coding-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Usman0606/Daily-coding-journey/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Usman0606/Daily-coding-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Usman0606/Daily-coding-journey/tree/master/0441-arranging-coins) |
