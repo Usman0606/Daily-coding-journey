@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Usman0606/Daily-coding-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Usman0606/Daily-coding-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Usman0606/Daily-coding-journey/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Usman0606/Daily-coding-journey/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Usman0606/Daily-coding-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Usman0606/Daily-coding-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Usman0606/Daily-coding-journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Usman0606/Daily-coding-journey/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Usman0606/Daily-coding-journey/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Usman0606/Daily-coding-journey/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Usman0606/Daily-coding-journey/tree/master/2149-rearrange-array-elements-by-sign) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Usman0606/Daily-coding-journey/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
