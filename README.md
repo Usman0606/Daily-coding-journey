@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Usman0606/Daily-coding-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Usman0606/Daily-coding-journey/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Usman0606/Daily-coding-journey/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/Usman0606/Daily-coding-journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Usman0606/Daily-coding-journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Usman0606/Daily-coding-journey/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Usman0606/Daily-coding-journey/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Usman0606/Daily-coding-journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Usman0606/Daily-coding-journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Usman0606/Daily-coding-journey/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Usman0606/Daily-coding-journey/tree/master/0066-plus-one) |
 | [0441-arranging-coins](https://github.com/Usman0606/Daily-coding-journey/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Usman0606/Daily-coding-journey/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Usman0606/Daily-coding-journey/tree/master/0509-fibonacci-number) |
